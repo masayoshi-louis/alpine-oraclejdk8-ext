@@ -1,4 +1,4 @@
-FROM alpine-oraclejdk8:full
+FROM frolvlad/alpine-oraclejdk8:full
 
 MAINTAINER luyi
 
